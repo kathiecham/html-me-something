@@ -1,0 +1,27 @@
+/* what else do I need */
+
+body {
+    margin: auto;
+    max-width: 50em;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    padding: 4em 1em;
+  }
+
+#main_heading {
+  font-size: 60px;
+  align-content: center;
+}
+
+.sub-headings {
+    font-size: 30px;
+    color: rebeccapurple;
+}
+
+.footer {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0px;
+  padding: 0;
+}
